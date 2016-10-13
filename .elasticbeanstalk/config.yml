@@ -1,0 +1,12 @@
+branch-defaults:
+  default:
+    environment: nameof-env
+global:
+  application_name: nameof-app
+  default_ec2_keyname: null
+  default_platform: tomcat-8-java-8
+  default_region: ap-southeast-2
+  profile: name-of-profile
+  sc: null
+deploy:
+  artifact: target/spring-boot-helloworld-printtime-0.1-SNAPSHOT.war
