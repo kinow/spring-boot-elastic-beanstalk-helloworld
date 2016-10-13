@@ -9,4 +9,4 @@ global:
   profile: name-of-profile
   sc: null
 deploy:
-  artifact: target/spring-boot-helloworld-printtime-0.1-SNAPSHOT.war
+  artifact: target/spring-boot-elastic-beanstalk-helloworld-0.1-SNAPSHOT.war
